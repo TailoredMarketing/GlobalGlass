@@ -375,6 +375,11 @@ ul {
 	border: solid 3px #f7f7f7;
 	margin: 15px;
 }
+.blue .inlineul li {
+	background-color: #3ec8f7;
+	border: none;
+	border-radius: 300px;	
+}
 #newsletter {
 	background-color: #000;
 	padding: 150px 0;

@@ -8,12 +8,12 @@
        	  <h1>Glass Wall Cladding</h1>
           <p>Glass Wall Cladding is a versatile product that provides coloured glass surfaces for residential and commercial interiors.</p>
     	  <p>Examples of areas that we can fit your glass splash back include;</p>
-    	  <ul>
-    	    <li>Shower Rooms</li>
-    	    <li>Kitchens</li>
-    	    <li>Commercial Reception Areas</li>
-    	    <li>Restaurants</li>
-    	  </ul>
+    	  <ul class="inlineul">
+            	<li><img src="/img/shower-icon.png" width="100" height="100" alt=""/></li>
+                <li><img src="/img/kitchens-icon.png" width="100" height="100" alt=""/></li>
+                <li><img src="/img/waiting-icon.png" width="100" height="100" alt=""/></li>
+                <li><img src="/img/restaurant-cion.png" width="100" height="100" alt=""/></li>
+          </ul>
           </div>
           </section>
           <section id="cladding">
