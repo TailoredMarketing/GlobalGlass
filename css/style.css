@@ -57,11 +57,9 @@ h1 {
 	width: 100%;
 	position: fixed;
 }
-.navbar-collapse.in, .navbar-collapse.collapsing {
+.navbar.in, .navbar-collapse.in, .navbar-collapse.collapsing {
 	background-color: rgba(0,0,0,1);	
-	padding-top: 5em;
 	border: none;
-	width: 100%;
 }
 .navbar-nav li {
 	text-align: center;
