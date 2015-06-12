@@ -15,6 +15,7 @@
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
+    <link href="/css/lightbox.css" rel="stylesheet" />
     <link href="/css/full-slider.css" rel="stylesheet">
     <link href="/css/style.css?ver=1.0" rel="stylesheet">
 

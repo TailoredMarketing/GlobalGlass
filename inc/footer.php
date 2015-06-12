@@ -10,6 +10,7 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/lightbox.min.js"></script>
     <script src="/js/functions.js"></script>
 
     <!-- Script to Activate the Carousel -->
