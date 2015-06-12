@@ -49,9 +49,7 @@ h1 {
 	z-index: 99999999;
 	position: absolute;
 }
-.navbar-nav {
-	float: right;
-}
+
 .navbar-default {
 	border: none;
 	top: 0;
@@ -61,7 +59,6 @@ h1 {
 }
 .navbar-collapse.in, .navbar-collapse.collapsing {
 	background-color: rgba(0,0,0,1);	
-	height: 100%;
 	padding-top: 5em;
 	border: none;
 	width: 100%;
