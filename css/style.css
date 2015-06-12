@@ -507,7 +507,7 @@ ul {
 
 @media only screen 
 and (max-device-width : 568px) { 
-	.navbar-nav, .navbar-collpase.in {
+	.navbar-nav, .navbar-collpase.in, .navbar-collpase.collapsing {
 		position: absolute;
 		top: 0;
 		left: 0;
